@@ -49,7 +49,7 @@ This Service may contain links to other sites. If you click on a third-party lin
 
 **Children’s Privacy**
 
-No personal information from children is collected
+No personal information from children is collected.
 App does not collect any personal information from children.
 
 **Changes to This Privacy Policy**
